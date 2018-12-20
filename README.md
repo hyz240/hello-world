@@ -1,2 +1,3 @@
 # hello-world
-a respository
+a coder
+learning IOS
